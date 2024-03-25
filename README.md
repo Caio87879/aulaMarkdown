@@ -27,3 +27,4 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
  Existem dois [tipos de requisitos](https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao) os funcionais e os não funcionais. Os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços e os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado. Ou seja, enquanto os requisitos funcionais estão focados no que será feito, os não funcionais descrevem como serão feitos.
 
+![Engenharia de Requisitos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mestresdaweb.com.br%2Ftecnologias%2Frequisitos-funcionais-e-nao-funcionais-o-que-sao&psig=AOvVaw1A9lRk2RjcuPhPggEuO0Ab&ust=1711484756235000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC0w92fkIUDFQAAAAAdAAAAABA0)
