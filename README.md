@@ -37,7 +37,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 UC    | Nome da UC  | Descrição da UC
 ------|-------------|----------------
 UC-01 |Explicação   | use case é uma descrição de todas as maneiras que um usuário final poderia usar um sistema. Cada um desses usos são como solicitações e os casos descrevem o que o sistema produz a partir dessa solicitação.
-UC-02 |numero da UC| O número da UC é usado para dizer quantas UC tem.
-UC-03 |Nome da UC  | O nome é para mostrar qual UC
-UC-04 |Descrição UC| A descrição serve para explicar mais sobre aquela UC.
+UC-02 |numero da UC | O número da UC é usado para dizer quantas UC tem.
+UC-03 |Nome da UC   | O nome é para mostrar qual UC
+UC-04 |Descrição UC | A descrição serve para explicar mais sobre aquela UC.
 
