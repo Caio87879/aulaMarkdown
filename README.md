@@ -19,17 +19,20 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 # **Engenharia de Requisitos**
 
-**Conceito Geral de Engenharia de Requisitos**
+### **Conceito Geral de Engenharia de Requisitos**
 
- A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+ A [engenharia de requisitos](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/) oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
 
- **Tipos de Requisitos**
+ ### **Tipos de Requisitos**
 
  Existem dois [tipos de requisitos](https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao) os funcionais e os não funcionais. Os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços e os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado. Ou seja, enquanto os requisitos funcionais estão focados no que será feito, os não funcionais descrevem como serão feitos.
 
-![Engenharia de Requisitos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZCfaTHNxgw7JRakXzINNfUOyffc21aBZsFO04UYKPbnNf_oG)
+![Engenharia de Requisitos](https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-e-um-requisito-funcional-requisitos-de-software-exemplo.png)
 
-**Use Case(UC)**
+![Engenharia de Requisitos](https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-sao-requisitos-nao-funcionais-requisitos-de-sofware.png)
+
+
+### **Use Case(UC)**
 
 UC    | Nome da UC  | Descrição da UC
 ------|-------------|----------------
